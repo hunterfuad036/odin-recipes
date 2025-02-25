@@ -1,2 +1,2 @@
-This is a simple recipe page using html only.
+This is my first project of ODIN PROJECT using HTML and CSS
 
